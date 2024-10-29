@@ -1,4 +1,4 @@
-ocal Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
    Name = "☠Death Hub☠",
    LoadingTitle = "☠Death Hub☠",
